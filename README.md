@@ -54,3 +54,4 @@ The list is broad but not exhaustive: India has many regional crops, local names
 
 ## Suggested GitHub upload
 Create a repository named `AgriMitra-Farmer-Market-Price-Assistant`, then upload all four project files. Do not upload private API keys or personal information.
+dashboard link :https://agrimitra-farmer-market-price-assistant-msheut5gcjj6a96xbzrvyz.streamlit.app/
