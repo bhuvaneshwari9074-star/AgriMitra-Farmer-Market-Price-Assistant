@@ -1,0 +1,379 @@
+State,District,Market,Commodity,Variety,Date,Minimum Price,Maximum Price,Modal Price,Unit,Source,Data Status
+Andhra Pradesh,Anantapur,Anantapur Market,Rice,Common,2026-10-07,744.48,947.52,846.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Rice,Common,2026-10-21,807.84,1028.16,918.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Rice,Common,2026-11-04,792.0,1008.0,900.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Wheat,Common,2026-10-07,887.59,1129.65,1008.62,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Wheat,Common,2026-10-21,963.12,1225.8,1094.46,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Wheat,Common,2026-11-04,944.24,1201.76,1073.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Maize,Common,2026-10-07,1030.69,1311.79,1171.24,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Maize,Common,2026-10-21,1118.41,1423.43,1270.92,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Maize,Common,2026-11-04,1096.48,1395.52,1246.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Jowar (Sorghum),Common,2026-10-07,1173.8,1493.92,1333.86,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Jowar (Sorghum),Common,2026-10-21,1273.69,1621.07,1447.38,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Jowar (Sorghum),Common,2026-11-04,1248.72,1589.28,1419.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Bajra (Pearl Millet),Common,2026-10-07,1316.9,1676.06,1496.48,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Bajra (Pearl Millet),Common,2026-10-21,1428.98,1818.7,1623.84,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Bajra (Pearl Millet),Common,2026-11-04,1400.96,1783.04,1592.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Ragi (Finger Millet),Common,2026-10-07,1460.01,1858.19,1659.1,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Ragi (Finger Millet),Common,2026-10-21,1584.26,2016.34,1800.3,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Ragi (Finger Millet),Common,2026-11-04,1553.2,1976.8,1765.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Barley,Common,2026-10-07,1603.11,2040.33,1821.72,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Barley,Common,2026-10-21,1739.55,2213.97,1976.76,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Barley,Common,2026-11-04,1705.44,2170.56,1938.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Foxtail Millet,Common,2026-10-07,1746.22,2222.46,1984.34,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Foxtail Millet,Common,2026-10-21,1894.83,2411.61,2153.22,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Foxtail Millet,Common,2026-11-04,1857.68,2364.32,2111.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Little Millet,Common,2026-10-07,1889.32,2404.6,2146.96,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Little Millet,Common,2026-10-21,2050.12,2609.24,2329.68,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Little Millet,Common,2026-11-04,2009.92,2558.08,2284.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Kodo Millet,Common,2026-10-07,2032.43,2586.73,2309.58,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Kodo Millet,Common,2026-10-21,2205.4,2806.88,2506.14,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Kodo Millet,Common,2026-11-04,2162.16,2751.84,2457.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Barnyard Millet,Common,2026-10-07,2175.54,2768.86,2472.2,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Barnyard Millet,Common,2026-10-21,2360.69,3004.51,2682.6,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Barnyard Millet,Common,2026-11-04,2314.4,2945.6,2630.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Proso Millet,Common,2026-10-07,2318.64,2951.0,2634.82,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Proso Millet,Common,2026-10-21,2515.97,3202.15,2859.06,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Proso Millet,Common,2026-11-04,2466.64,3139.36,2803.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Oats,Common,2026-10-07,2461.75,3133.13,2797.44,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Oats,Common,2026-10-21,2671.26,3399.78,3035.52,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Oats,Common,2026-11-04,2618.88,3333.12,2976.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Red Gram (Tur/Arhar),Common,2026-10-07,2604.85,3315.27,2960.06,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Red Gram (Tur/Arhar),Common,2026-10-21,2826.54,3597.42,3211.98,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Red Gram (Tur/Arhar),Common,2026-11-04,2771.12,3526.88,3149.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Bengal Gram (Chickpea/Chana),Common,2026-10-07,2747.96,3497.4,3122.68,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Bengal Gram (Chickpea/Chana),Common,2026-10-21,2981.83,3795.05,3388.44,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Bengal Gram (Chickpea/Chana),Common,2026-11-04,2923.36,3720.64,3322.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Green Gram (Moong),Common,2026-10-07,2891.06,3679.54,3285.3,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Green Gram (Moong),Common,2026-10-21,3137.11,3992.69,3564.9,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Green Gram (Moong),Common,2026-11-04,3075.6,3914.4,3495.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Black Gram (Urad),Common,2026-10-07,3034.17,3861.67,3447.92,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Black Gram (Urad),Common,2026-10-21,3292.4,4190.32,3741.36,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Black Gram (Urad),Common,2026-11-04,3227.84,4108.16,3668.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Lentil (Masoor),Common,2026-10-07,3177.28,4043.8,3610.54,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Lentil (Masoor),Common,2026-10-21,3447.68,4387.96,3917.82,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Lentil (Masoor),Common,2026-11-04,3380.08,4301.92,3841.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Peas,Common,2026-10-07,3320.38,4225.94,3773.16,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Peas,Common,2026-10-21,3602.97,4585.59,4094.28,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Peas,Common,2026-11-04,3532.32,4495.68,4014.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Horse Gram,Common,2026-10-07,3463.49,4408.07,3935.78,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Horse Gram,Common,2026-10-21,3758.25,4783.23,4270.74,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Horse Gram,Common,2026-11-04,3684.56,4689.44,4187.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Cowpea (Lobia),Common,2026-10-07,3606.59,4590.21,4098.4,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Cowpea (Lobia),Common,2026-10-21,3913.54,4980.86,4447.2,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Cowpea (Lobia),Common,2026-11-04,3836.8,4883.2,4360.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Moth Bean,Common,2026-10-07,3749.7,4772.34,4261.02,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Moth Bean,Common,2026-10-21,4068.82,5178.5,4623.66,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Moth Bean,Common,2026-11-04,3989.04,5076.96,4533.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Field Bean (Avare),Common,2026-10-07,3892.8,4954.48,4423.64,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Field Bean (Avare),Common,2026-10-21,4224.11,5376.13,4800.12,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Field Bean (Avare),Common,2026-11-04,4141.28,5270.72,4706.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Groundnut,Common,2026-10-07,4035.91,5136.61,4586.26,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Groundnut,Common,2026-10-21,4379.39,5573.77,4976.58,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Groundnut,Common,2026-11-04,4293.52,5464.48,4879.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Mustard,Common,2026-10-07,4179.01,5318.75,4748.88,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Mustard,Common,2026-10-21,4534.68,5771.4,5153.04,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Mustard,Common,2026-11-04,4445.76,5658.24,5052.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Soybean,Common,2026-10-07,4322.12,5500.88,4911.5,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Soybean,Common,2026-10-21,4689.96,5969.04,5329.5,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Soybean,Common,2026-11-04,4598.0,5852.0,5225.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Sunflower,Common,2026-10-07,4465.23,5683.01,5074.12,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Sunflower,Common,2026-10-21,4845.24,6166.68,5505.96,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Sunflower,Common,2026-11-04,4750.24,6045.76,5398.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Sesame (Til),Common,2026-10-07,4608.33,5865.15,5236.74,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Sesame (Til),Common,2026-10-21,5000.53,6364.31,5682.42,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Sesame (Til),Common,2026-11-04,4902.48,6239.52,5571.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Castor Seed,Common,2026-10-07,4751.44,6047.28,5399.36,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Castor Seed,Common,2026-10-21,5155.81,6561.95,5858.88,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Castor Seed,Common,2026-11-04,5054.72,6433.28,5744.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Linseed,Common,2026-10-07,4894.54,6229.42,5561.98,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Linseed,Common,2026-10-21,5311.1,6759.58,6035.34,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Linseed,Common,2026-11-04,5206.96,6627.04,5917.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Safflower,Common,2026-10-07,5037.65,6411.55,5724.6,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Safflower,Common,2026-10-21,5466.38,6957.22,6211.8,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Safflower,Common,2026-11-04,5359.2,6820.8,6090.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Niger Seed,Common,2026-10-07,5180.75,6593.69,5887.22,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Niger Seed,Common,2026-10-21,5621.67,7154.85,6388.26,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Niger Seed,Common,2026-11-04,5511.44,7014.56,6263.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Coconut,Common,2026-10-07,5323.86,6775.82,6049.84,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Coconut,Common,2026-10-21,5776.95,7352.49,6564.72,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Coconut,Common,2026-11-04,5663.68,7208.32,6436.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Cotton,Common,2026-10-07,5466.96,6957.96,6212.46,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Cotton,Common,2026-10-21,5932.24,7550.12,6741.18,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Cotton,Common,2026-11-04,5815.92,7402.08,6609.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Sugarcane,Common,2026-10-07,5610.07,7140.09,6375.08,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Sugarcane,Common,2026-10-21,6087.52,7747.76,6917.64,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Sugarcane,Common,2026-11-04,5968.16,7595.84,6782.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Jute,Common,2026-10-07,5753.18,7322.22,6537.7,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Jute,Common,2026-10-21,6242.81,7945.39,7094.1,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Jute,Common,2026-11-04,6120.4,7789.6,6955.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Tobacco,Common,2026-10-07,767.64,977.0,872.32,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Tobacco,Common,2026-10-21,832.97,1060.15,946.56,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Tobacco,Common,2026-11-04,816.64,1039.36,928.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Potato Starch,Common,2026-10-07,910.75,1159.13,1034.94,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Potato Starch,Common,2026-10-21,988.26,1257.78,1123.02,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Potato Starch,Common,2026-11-04,968.88,1233.12,1101.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Tomato,Common,2026-10-07,1053.85,1341.27,1197.56,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Tomato,Common,2026-10-21,1143.54,1455.42,1299.48,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Tomato,Common,2026-11-04,1121.12,1426.88,1274.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Onion,Common,2026-10-07,1196.96,1523.4,1360.18,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Onion,Common,2026-10-21,1298.83,1653.05,1475.94,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Onion,Common,2026-11-04,1273.36,1620.64,1447.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Potato,Common,2026-10-07,1340.06,1705.54,1522.8,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Potato,Common,2026-10-21,1454.11,1850.69,1652.4,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Potato,Common,2026-11-04,1425.6,1814.4,1620.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Brinjal (Eggplant),Common,2026-10-07,1483.17,1887.67,1685.42,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Brinjal (Eggplant),Common,2026-10-21,1609.4,2048.32,1828.86,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Brinjal (Eggplant),Common,2026-11-04,1577.84,2008.16,1793.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Okra (Lady Finger),Common,2026-10-07,1626.28,2069.8,1848.04,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Okra (Lady Finger),Common,2026-10-21,1764.68,2245.96,2005.32,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Okra (Lady Finger),Common,2026-11-04,1730.08,2201.92,1966.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Green Chilli,Common,2026-10-07,1769.38,2251.94,2010.66,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Green Chilli,Common,2026-10-21,1919.97,2443.59,2181.78,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Green Chilli,Common,2026-11-04,1882.32,2395.68,2139.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Capsicum,Common,2026-10-07,1912.49,2434.07,2173.28,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Capsicum,Common,2026-10-21,2075.25,2641.23,2358.24,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Capsicum,Common,2026-11-04,2034.56,2589.44,2312.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Cabbage,Common,2026-10-07,2055.59,2616.21,2335.9,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Cabbage,Common,2026-10-21,2230.54,2838.86,2534.7,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Cabbage,Common,2026-11-04,2186.8,2783.2,2485.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Cauliflower,Common,2026-10-07,2198.7,2798.34,2498.52,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Cauliflower,Common,2026-10-21,2385.82,3036.5,2711.16,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Cauliflower,Common,2026-11-04,2339.04,2976.96,2658.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Carrot,Common,2026-10-07,2341.8,2980.48,2661.14,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Carrot,Common,2026-10-21,2541.11,3234.13,2887.62,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Carrot,Common,2026-11-04,2491.28,3170.72,2831.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Radish,Common,2026-10-07,2484.91,3162.61,2823.76,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Radish,Common,2026-10-21,2696.39,3431.77,3064.08,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Radish,Common,2026-11-04,2643.52,3364.48,3004.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Beetroot,Common,2026-10-07,2628.01,3344.75,2986.38,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Beetroot,Common,2026-10-21,2851.68,3629.4,3240.54,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Beetroot,Common,2026-11-04,2795.76,3558.24,3177.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Spinach,Common,2026-10-07,2771.12,3526.88,3149.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Spinach,Common,2026-10-21,3006.96,3827.04,3417.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Spinach,Common,2026-11-04,2948.0,3752.0,3350.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Amaranthus,Common,2026-10-07,2914.23,3709.01,3311.62,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Amaranthus,Common,2026-10-21,3162.24,4024.68,3593.46,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Amaranthus,Common,2026-11-04,3100.24,3945.76,3523.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Drumstick,Common,2026-10-07,3057.33,3891.15,3474.24,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Drumstick,Common,2026-10-21,3317.53,4222.31,3769.92,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Drumstick,Common,2026-11-04,3252.48,4139.52,3696.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Bottle Gourd,Common,2026-10-07,3200.44,4073.28,3636.86,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Bottle Gourd,Common,2026-10-21,3472.81,4419.95,3946.38,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Bottle Gourd,Common,2026-11-04,3404.72,4333.28,3869.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Bitter Gourd,Common,2026-10-07,3343.54,4255.42,3799.48,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Bitter Gourd,Common,2026-10-21,3628.1,4617.58,4122.84,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Bitter Gourd,Common,2026-11-04,3556.96,4527.04,4042.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Ridge Gourd,Common,2026-10-07,3486.65,4437.55,3962.1,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Ridge Gourd,Common,2026-10-21,3783.38,4815.22,4299.3,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Ridge Gourd,Common,2026-11-04,3709.2,4720.8,4215.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Sponge Gourd,Common,2026-10-07,3629.75,4619.69,4124.72,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Sponge Gourd,Common,2026-10-21,3938.67,5012.85,4475.76,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Sponge Gourd,Common,2026-11-04,3861.44,4914.56,4388.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Snake Gourd,Common,2026-10-07,3772.86,4801.82,4287.34,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Snake Gourd,Common,2026-10-21,4093.95,5210.49,4652.22,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Snake Gourd,Common,2026-11-04,4013.68,5108.32,4561.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Pumpkin,Common,2026-10-07,3915.96,4983.96,4449.96,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Pumpkin,Common,2026-10-21,4249.24,5408.12,4828.68,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Pumpkin,Common,2026-11-04,4165.92,5302.08,4734.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Ash Gourd,Common,2026-10-07,4059.07,5166.09,4612.58,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Ash Gourd,Common,2026-10-21,4404.52,5605.76,5005.14,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Ash Gourd,Common,2026-11-04,4318.16,5495.84,4907.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Cucumber,Common,2026-10-07,4202.18,5348.22,4775.2,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Cucumber,Common,2026-10-21,4559.81,5803.39,5181.6,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Cucumber,Common,2026-11-04,4470.4,5689.6,5080.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Coriander Leaves,Common,2026-10-07,4345.28,5530.36,4937.82,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Coriander Leaves,Common,2026-10-21,4715.09,6001.03,5358.06,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Coriander Leaves,Common,2026-11-04,4622.64,5883.36,5253.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Fenugreek Leaves,Common,2026-10-07,4488.39,5712.49,5100.44,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Fenugreek Leaves,Common,2026-10-21,4870.38,6198.66,5534.52,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Fenugreek Leaves,Common,2026-11-04,4774.88,6077.12,5426.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Beans,Common,2026-10-07,4631.49,5894.63,5263.06,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Beans,Common,2026-10-21,5025.66,6396.3,5710.98,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Beans,Common,2026-11-04,4927.12,6270.88,5599.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Cluster Beans,Common,2026-10-07,4774.6,6076.76,5425.68,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Cluster Beans,Common,2026-10-21,5180.95,6593.93,5887.44,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Cluster Beans,Common,2026-11-04,5079.36,6464.64,5772.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Cowpea Pods,Common,2026-10-07,4917.7,6258.9,5588.3,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Cowpea Pods,Common,2026-10-21,5336.23,6791.57,6063.9,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Cowpea Pods,Common,2026-11-04,5231.6,6658.4,5945.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Peas (Fresh),Common,2026-10-07,5060.81,6441.03,5750.92,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Peas (Fresh),Common,2026-10-21,5491.52,6989.2,6240.36,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Peas (Fresh),Common,2026-11-04,5383.84,6852.16,6118.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Sweet Corn,Common,2026-10-07,5203.92,6623.16,5913.54,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Sweet Corn,Common,2026-10-21,5646.8,7186.84,6416.82,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Sweet Corn,Common,2026-11-04,5536.08,7045.92,6291.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Mushroom,Common,2026-10-07,5347.02,6805.3,6076.16,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Mushroom,Common,2026-10-21,5802.09,7384.47,6593.28,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Mushroom,Common,2026-11-04,5688.32,7239.68,6464.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Garlic,Common,2026-10-07,5490.13,6987.43,6238.78,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Garlic,Common,2026-10-21,5957.37,7582.11,6769.74,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Garlic,Common,2026-11-04,5840.56,7433.44,6637.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Ginger,Common,2026-10-07,5633.23,7169.57,6401.4,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Ginger,Common,2026-10-21,6112.66,7779.74,6946.2,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Ginger,Common,2026-11-04,5992.8,7627.2,6810.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Sweet Potato,Common,2026-10-07,5776.34,7351.7,6564.02,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Sweet Potato,Common,2026-10-21,6267.94,7977.38,7122.66,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Sweet Potato,Common,2026-11-04,6145.04,7820.96,6983.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Colocasia (Arbi),Common,2026-10-07,790.8,1006.48,898.64,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Colocasia (Arbi),Common,2026-10-21,858.11,1092.13,975.12,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Colocasia (Arbi),Common,2026-11-04,841.28,1070.72,956.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Tapioca,Common,2026-10-07,933.91,1188.61,1061.26,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Tapioca,Common,2026-10-21,1013.39,1289.77,1151.58,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Tapioca,Common,2026-11-04,993.52,1264.48,1129.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Raw Banana,Common,2026-10-07,1077.01,1370.75,1223.88,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Raw Banana,Common,2026-10-21,1168.68,1487.4,1328.04,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Raw Banana,Common,2026-11-04,1145.76,1458.24,1302.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Mango,Common,2026-10-07,1220.12,1552.88,1386.5,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Mango,Common,2026-10-21,1323.96,1685.04,1504.5,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Mango,Common,2026-11-04,1298.0,1652.0,1475.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Banana,Common,2026-10-07,1363.23,1735.01,1549.12,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Banana,Common,2026-10-21,1479.24,1882.68,1680.96,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Banana,Common,2026-11-04,1450.24,1845.76,1648.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Apple,Common,2026-10-07,1506.33,1917.15,1711.74,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Apple,Common,2026-10-21,1634.53,2080.31,1857.42,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Apple,Common,2026-11-04,1602.48,2039.52,1821.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Guava,Common,2026-10-07,1649.44,2099.28,1874.36,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Guava,Common,2026-10-21,1789.81,2277.95,2033.88,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Guava,Common,2026-11-04,1754.72,2233.28,1994.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Papaya,Common,2026-10-07,1792.54,2281.42,2036.98,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Papaya,Common,2026-10-21,1945.1,2475.58,2210.34,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Papaya,Common,2026-11-04,1906.96,2427.04,2167.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Orange,Common,2026-10-07,1935.65,2463.55,2199.6,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Orange,Common,2026-10-21,2100.38,2673.22,2386.8,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Orange,Common,2026-11-04,2059.2,2620.8,2340.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Sweet Lime (Mosambi),Common,2026-10-07,2078.75,2645.69,2362.22,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Sweet Lime (Mosambi),Common,2026-10-21,2255.67,2870.85,2563.26,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Sweet Lime (Mosambi),Common,2026-11-04,2211.44,2814.56,2513.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Lemon,Common,2026-10-07,2221.86,2827.82,2524.84,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Lemon,Common,2026-10-21,2410.95,3068.49,2739.72,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Lemon,Common,2026-11-04,2363.68,3008.32,2686.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Grapes,Common,2026-10-07,2364.96,3009.96,2687.46,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Grapes,Common,2026-10-21,2566.24,3266.12,2916.18,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Grapes,Common,2026-11-04,2515.92,3202.08,2859.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Pomegranate,Common,2026-10-07,2508.07,3192.09,2850.08,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Pomegranate,Common,2026-10-21,2721.52,3463.76,3092.64,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Pomegranate,Common,2026-11-04,2668.16,3395.84,3032.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Watermelon,Common,2026-10-07,2651.18,3374.22,3012.7,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Watermelon,Common,2026-10-21,2876.81,3661.39,3269.1,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Watermelon,Common,2026-11-04,2820.4,3589.6,3205.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Muskmelon,Common,2026-10-07,2794.28,3556.36,3175.32,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Muskmelon,Common,2026-10-21,3032.09,3859.03,3445.56,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Muskmelon,Common,2026-11-04,2972.64,3783.36,3378.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Pineapple,Common,2026-10-07,2937.39,3738.49,3337.94,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Pineapple,Common,2026-10-21,3187.38,4056.66,3622.02,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Pineapple,Common,2026-11-04,3124.88,3977.12,3551.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Jackfruit,Common,2026-10-07,3080.49,3920.63,3500.56,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Jackfruit,Common,2026-10-21,3342.66,4254.3,3798.48,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Jackfruit,Common,2026-11-04,3277.12,4170.88,3724.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Sapota,Common,2026-10-07,3223.6,4102.76,3663.18,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Sapota,Common,2026-10-21,3497.95,4451.93,3974.94,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Sapota,Common,2026-11-04,3429.36,4364.64,3897.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Litchi,Common,2026-10-07,3366.7,4284.9,3825.8,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Litchi,Common,2026-10-21,3653.23,4649.57,4151.4,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Litchi,Common,2026-11-04,3581.6,4558.4,4070.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Custard Apple,Common,2026-10-07,3509.81,4467.03,3988.42,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Custard Apple,Common,2026-10-21,3808.52,4847.2,4327.86,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Custard Apple,Common,2026-11-04,3733.84,4752.16,4243.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Amla,Common,2026-10-07,3652.92,4649.16,4151.04,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Amla,Common,2026-10-21,3963.8,5044.84,4504.32,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Amla,Common,2026-11-04,3886.08,4945.92,4416.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Coconut (Tender),Common,2026-10-07,3796.02,4831.3,4313.66,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Coconut (Tender),Common,2026-10-21,4119.09,5242.47,4680.78,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Coconut (Tender),Common,2026-11-04,4038.32,5139.68,4589.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Pear,Common,2026-10-07,3939.13,5013.43,4476.28,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Pear,Common,2026-10-21,4274.37,5440.11,4857.24,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Pear,Common,2026-11-04,4190.56,5333.44,4762.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Peach,Common,2026-10-07,4082.23,5195.57,4638.9,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Peach,Common,2026-10-21,4429.66,5637.74,5033.7,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Peach,Common,2026-11-04,4342.8,5527.2,4935.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Plum,Common,2026-10-07,4225.34,5377.7,4801.52,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Plum,Common,2026-10-21,4584.94,5835.38,5210.16,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Plum,Common,2026-11-04,4495.04,5720.96,5108.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Strawberry,Common,2026-10-07,4368.44,5559.84,4964.14,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Strawberry,Common,2026-10-21,4740.23,6033.01,5386.62,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Strawberry,Common,2026-11-04,4647.28,5914.72,5281.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Turmeric,Common,2026-10-07,4511.55,5741.97,5126.76,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Turmeric,Common,2026-10-21,4895.51,6230.65,5563.08,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Turmeric,Common,2026-11-04,4799.52,6108.48,5454.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Red Chilli,Common,2026-10-07,4654.65,5924.11,5289.38,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Red Chilli,Common,2026-10-21,5050.8,6428.28,5739.54,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Red Chilli,Common,2026-11-04,4951.76,6302.24,5627.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Cumin,Common,2026-10-07,4797.76,6106.24,5452.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Cumin,Common,2026-10-21,5206.08,6625.92,5916.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Cumin,Common,2026-11-04,5104.0,6496.0,5800.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Coriander Seed,Common,2026-10-07,4940.87,6288.37,5614.62,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Coriander Seed,Common,2026-10-21,5361.36,6823.56,6092.46,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Coriander Seed,Common,2026-11-04,5256.24,6689.76,5973.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Black Pepper,Common,2026-10-07,5083.97,6470.51,5777.24,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Black Pepper,Common,2026-10-21,5516.65,7021.19,6268.92,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Black Pepper,Common,2026-11-04,5408.48,6883.52,6146.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Cardamom,Common,2026-10-07,5227.08,6652.64,5939.86,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Cardamom,Common,2026-10-21,5671.93,7218.83,6445.38,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Cardamom,Common,2026-11-04,5560.72,7077.28,6319.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Clove,Common,2026-10-07,5370.18,6834.78,6102.48,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Clove,Common,2026-10-21,5827.22,7416.46,6621.84,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Clove,Common,2026-11-04,5712.96,7271.04,6492.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Cinnamon,Common,2026-10-07,5513.29,7016.91,6265.1,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Cinnamon,Common,2026-10-21,5982.5,7614.1,6798.3,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Cinnamon,Common,2026-11-04,5865.2,7464.8,6665.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Fenugreek Seed,Common,2026-10-07,5656.39,7199.05,6427.72,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Fenugreek Seed,Common,2026-10-21,6137.79,7811.73,6974.76,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Fenugreek Seed,Common,2026-11-04,6017.44,7658.56,6838.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Fennel,Common,2026-10-07,5799.5,7381.18,6590.34,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Fennel,Common,2026-10-21,6293.07,8009.37,7151.22,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,Fennel,Common,2026-11-04,6169.68,7852.32,7011.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Ajwain,Common,2026-10-07,813.96,1035.96,924.96,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Ajwain,Common,2026-10-21,883.24,1124.12,1003.68,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Ajwain,Common,2026-11-04,865.92,1102.08,984.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Ginger (Dry),Common,2026-10-07,957.07,1218.09,1087.58,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Ginger (Dry),Common,2026-10-21,1038.52,1321.76,1180.14,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Ginger (Dry),Common,2026-11-04,1018.16,1295.84,1157.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Garlic (Dry),Common,2026-10-07,1100.18,1400.22,1250.2,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Garlic (Dry),Common,2026-10-21,1193.81,1519.39,1356.6,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Garlic (Dry),Common,2026-11-04,1170.4,1489.6,1330.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Tamarind,Common,2026-10-07,1243.28,1582.36,1412.82,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Tamarind,Common,2026-10-21,1349.09,1717.03,1533.06,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Tamarind,Common,2026-11-04,1322.64,1683.36,1503.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Tea,Common,2026-10-07,1386.39,1764.49,1575.44,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Tea,Common,2026-10-21,1504.38,1914.66,1709.52,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Tea,Common,2026-11-04,1474.88,1877.12,1676.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Coffee,Common,2026-10-07,1529.49,1946.63,1738.06,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Coffee,Common,2026-10-21,1659.66,2112.3,1885.98,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Coffee,Common,2026-11-04,1627.12,2070.88,1849.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Rubber,Common,2026-10-07,1672.6,2128.76,1900.68,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Rubber,Common,2026-10-21,1814.95,2309.93,2062.44,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Rubber,Common,2026-11-04,1779.36,2264.64,2022.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Arecanut,Common,2026-10-07,1815.7,2310.9,2063.3,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Arecanut,Common,2026-10-21,1970.23,2507.57,2238.9,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Arecanut,Common,2026-11-04,1931.6,2458.4,2195.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Cashew,Common,2026-10-07,1958.81,2493.03,2225.92,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Cashew,Common,2026-10-21,2125.52,2705.2,2415.36,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Uttar Pradesh,Lucknow,Lucknow Market,Cashew,Common,2026-11-04,2083.84,2652.16,2368.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,cocoa,Common,2026-10-07,2101.92,2675.16,2388.54,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,cocoa,Common,2026-10-21,2280.8,2902.84,2591.82,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Madhya Pradesh,Indore,Indore Market,cocoa,Common,2026-11-04,2236.08,2845.92,2541.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Betel Leaf,Common,2026-10-07,2245.02,2857.3,2551.16,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Betel Leaf,Common,2026-10-21,2436.09,3100.47,2768.28,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Rajasthan,Jaipur,Jaipur Market,Betel Leaf,Common,2026-11-04,2388.32,3039.68,2714.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Mesta,Common,2026-10-07,2388.13,3039.43,2713.78,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Mesta,Common,2026-10-21,2591.37,3298.11,2944.74,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+West Bengal,Kolkata,Koley Market,Mesta,Common,2026-11-04,2540.56,3233.44,2887.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Fodder Sorghum,Common,2026-10-07,2531.23,3221.57,2876.4,₹/tonne,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Fodder Sorghum,Common,2026-10-21,2746.66,3495.74,3121.2,₹/tonne,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Anantapur,Anantapur Market,Fodder Sorghum,Common,2026-11-04,2692.8,3427.2,3060.0,₹/tonne,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Napier Grass,Common,2026-10-07,2674.34,3403.7,3039.02,₹/tonne,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Napier Grass,Common,2026-10-21,2901.94,3693.38,3297.66,₹/tonne,Illustrative sample data — replace with verified market data,SAMPLE
+Andhra Pradesh,Kurnool,Kurnool Market,Napier Grass,Common,2026-11-04,2845.04,3620.96,3233.0,₹/tonne,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Lucerne (Alfalfa),Common,2026-10-07,2817.44,3585.84,3201.64,₹/tonne,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Lucerne (Alfalfa),Common,2026-10-21,3057.23,3891.01,3474.12,₹/tonne,Illustrative sample data — replace with verified market data,SAMPLE
+Telangana,Hyderabad,Bowenpally Market,Lucerne (Alfalfa),Common,2026-11-04,2997.28,3814.72,3406.0,₹/tonne,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Berseem,Common,2026-10-07,2960.55,3767.97,3364.26,₹/tonne,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Berseem,Common,2026-10-21,3212.51,4088.65,3650.58,₹/tonne,Illustrative sample data — replace with verified market data,SAMPLE
+Karnataka,Bengaluru Urban,Yeshwanthpur Market,Berseem,Common,2026-11-04,3149.52,4008.48,3579.0,₹/tonne,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Sunhemp,Common,2026-10-07,3103.65,3950.11,3526.88,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Sunhemp,Common,2026-10-21,3367.8,4286.28,3827.04,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Maharashtra,Pune,Pune Market,Sunhemp,Common,2026-11-04,3301.76,4202.24,3752.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Dhaincha,Common,2026-10-07,3246.76,4132.24,3689.5,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Dhaincha,Common,2026-10-21,3523.08,4483.92,4003.5,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
+Tamil Nadu,Coimbatore,Coimbatore Market,Dhaincha,Common,2026-11-04,3454.0,4396.0,3925.0,₹/quintal,Illustrative sample data — replace with verified market data,SAMPLE
